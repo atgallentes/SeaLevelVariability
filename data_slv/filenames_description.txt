@@ -1,0 +1,52 @@
+Station,Varname,Latitude,Longitude,Resolution,Start,End,Filename,Notes
+Manila_a,mnla,14.64000,121.08000,daily,1984-01-01,2015-03-05,rqd0370a.csv,UHSLC Research quality
+Manila_a,mnla,14.64000,121.08000,hourly,1984-01-01,2015-03-05,rqh0370a.csv,UHSLC Research quality
+Manila_b,mnlb,14.64000,121.08000,daily,2006-03-31,2012-04-03,rqd0370b.csv,UHSLC Research quality
+Manila_b,mnlb,14.64000,121.08000,hourly,2006-03-31,2012-04-03,rqh0370b.csv,UHSLC Research quality
+Legaspi,leg,13.16100,123.75800,daily,1984-01-01,2015-02-25,rqd0371a.csv,UHSLC Research quality
+Legaspi,leg,13.16100,123.75800,hourly,1984-01-01,2015-02-25,rqh0371a.csv,UHSLC Research quality
+Davao_a,dava,7.083300,125.63300,daily,1984-01-01,1997-07-31,rqd0372a.csv,UHSLC Research quality
+Davao_a,dava,7.083300,125.63300,hourly,1984-01-01,1997-07-31,rqh0372a.csv,UHSLC Research quality
+Davao_b,davb,7.083300,125.63300,daily,1998-01-01,2015-02-04,rqd0372b.csv,UHSLC Research quality
+Davao_b,davb,7.083300,125.63300,hourly,1998-01-01,2015-02-04,rqh0372b.csv,UHSLC Research quality
+Jolo,jol,6.06700,121.00000,daily,1984-01-01,1995-12-31,rqd0373a.csv,UHSLC Research quality
+Jolo,jol,6.06700,121.00000,hourly,1984-01-01,1995-12-31,rqh0373a.csv,UHSLC Research quality
+Cebu,ceb,10.30000,123.91700,daily,1998-01-01,2014-05-27,rqd0379a.csv,UHSLC Research quality
+Cebu,ceb,10.30000,123.91700,hourly,1998-01-01,2014-05-27,rqh0379a.csv,UHSLC Research quality
+Puerto Princesa,pue,9.75000,118.73300,daily,1998-01-01,2014-05-13,rqd0380a.csv,UHSLC Research quality
+Puerto Princesa,pue,9.75000,118.73300,hourly,1998-01-01,2014-05-13,rqh0380a.csv,UHSLC Research quality
+Subic,sub,14.81700,120.28300,daily,2007-02-27,2015-02-04,rqd0382a.csv,UHSLC Research quality
+Subic,sub,14.81700,120.28300,hourly,2007-02-27,2015-02-04,rqh0382a.csv,UHSLC Research quality
+Currimao,cur,17.983333,120.483333,daily,2009-10-09,2015-03-05,rqd0654a.csv,UHSLC Research quality
+Currimao,cur,17.983333,120.483333,hourly,2009-10-09,2017-09-30,rqh0654a.csv,UHSLC Research quality
+Lubang,lub,13.82000,120.21000,daily,2010-06-11,2015-02-04,rqd0655a.csv,UHSLC Research quality
+Lubang,lub,13.82000,120.21000,hourly,2010-06-11,2017-09-30,rqh0655a.csv,UHSLC Research quality
+Manila,mnla,14.64000,121.08000,monthly,1901.2084,2015.9584,monthly_manila.txt,PSMSL
+Manila,mnla,14.64000,121.08000,annual,1902,2015,annual_manila.txt,PSMSL
+Subic,sub,14.81700,120.28300,monthly,2011.0416,2015.9584,monthly_subic.txt,PSMSL
+Subic,sub,14.81700,120.28300,annual,2011,2015,annual_subic.txt,PSMSL
+Currimao,cur,17.983333,120.483333,monthly,2011.0416,2015.9584,monthly_currimao.txt,PSMSL
+Legaspi,leg,13.16100,123.75800,monthly,1947.3750,2015.9584,monthly_legaspi.txt,PSMSL
+Legaspi,leg,13.16100,123.75800,annual,1949,2009,annual_legaspi.txt,PSMSL
+Puerto Princesa,pue,9.75000,118.73300,monthly,1990.5416,2015.7084,monthly_ppc.txt,PSMSL
+Puerto Princesa,pue,9.75000,118.73300,annual,1991,2013,annual_ppc.txt,PSMSL
+Port Irene,por,18.383333,122.1,monthly,1987.1250,2006.9584,monthly_portirene.txt,PSMSL
+Port Irene,por,18.383333,122.1,annual,1989,2006,annual_portirene.txt,PSMSL
+Marinduque,mar,13.533333,121.866667,monthly,2011.0416,2015.9584,monthly_marinduque.txt,PSMSL
+Tacloban,tac,11.25,125,monthly,1951.4584,1976.9584,monthly_tacloban.txt,PSMSL
+Cebu,ceb,10.30000,123.91700,monthly,1935.3750,2015.9584,monthly_cebu.txt,PSMSL
+Cebu,ceb,10.30000,123.91700,annual,1936,2015,annual_cebu.txt,PSMSL
+Davao,dav,7.083300,125.63300,monthly,1948.2084,2015.9584,monthly_davao.txt,PSMSL
+Davao,dav,7.083300,125.63300,annual,1949,2015,annual_davao.txt,PSMSL
+Pagadian,pag,7.816667,123.433333,monthly,2011.0416,2015.9584,monthly_pagadian.txt,PSMSL
+Makar,mak,6.1,125.15,monthly,2011.0416,2015.7916,monthly_makar.txt,PSMSL
+Zamboanga,zam,6.916667,122.066667,monthly,2011.0416,2015.9584,monthly_zamboanga.txt,PSMSL
+Zamboanga,zam,6.916667,122.066667,annual,2011,2014,annual_zamboanga.txt,PSMSL
+Jolo,jol,6.06700,121.00000,monthly,1947.8750,1996.7084,monthly_sulu.txt,PSMSL
+Jolo,jol,6.06700,121.00000,annual,1948,1994,annual_sulu.txt,PSMSL
+Cagayan de Oro,cag,8.5,124.666667,monthly,2011.1250,2015.9584,monthly_cagayandeoro.txt,PSMSL
+Cagayan de Oro,cag,8.5,124.666667,annual,2012,2015,annual_cagayandeoro.txt,PSMSL
+Camiguin,cam,9.25,124.733333,monthly,2011.0416,2015.9584,monthly_camiguin.txt,PSMSL
+Surigao,sur,9.783333,125.5,monthly,1987.3750,2015.5416,monthly_surigao.txt,PSMSL
+Surigao,sur,9.783333,125.5,annual,1988,2014,annual_surigao.txt,PSMSL
+
